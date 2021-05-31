@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-$config['base_url'] = 'https://helpworx.herokuapp.com/ForHelworx/reg-system-codeigniter/;
+$config['base_url'] = ''; //   /ForHelworx/reg-system-codeigniter/
 $config['index_page'] = '';
 // $config['uri_protocol']	= 'QUERY_STRING';
 $config['uri_protocol'] = "REQUEST_URI";
